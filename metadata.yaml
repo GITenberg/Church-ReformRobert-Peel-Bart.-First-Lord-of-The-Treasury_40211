@@ -1,0 +1,35 @@
+_repo: Church-ReformRobert-Peel-Bart.-First-Lord-of-The-Treasury_40211
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Carlile, Richard
+    aliases:
+    - Philanthropos
+    - Carlisle, Richard
+    - Deist
+    birthdate: 1790
+    deathdate: 1843
+    gutenberg_agent_id: '39431'
+    url: http://www.gutenberg.org/2009/agents/39431
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Carlile
+description: ''
+gutenberg_issued: '2012-07-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40211'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bible -- Criticism, interpretation, etc.'
+- !lcc 'DA'
+- !lcsh 'Church and state -- Church of England'
+- !lcc 'BL'
+- !lcsh 'Rationalism'
+title: "Church Reform\r\nThe Only Means to That End, Stated in a Letter to Sir Robert\
+  \ Peel, Bart., First Lord of the Treasury"
+url: http://www.gutenberg.org/ebooks/40211
